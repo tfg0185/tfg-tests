@@ -1,0 +1,7 @@
+# URLs linea a linea. Puedes dejar lineas en blanco.
+# Las lineas que empiezan por # se ignoran.
+
+https://hfmthsga.vercel.app/
+https://colonial-chocolate-9onfwalt.edgeone.app
+https://aicopmtrade.click/
+https://grateful-path-345786.framer.app/
