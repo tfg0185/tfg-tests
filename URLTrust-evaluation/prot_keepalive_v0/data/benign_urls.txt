@@ -1,0 +1,4 @@
+# Enlaces benignos
+# Las lineas que empiezan por # se ignoran.
+
+https://www.wikipedia.org
